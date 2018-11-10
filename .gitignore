@@ -1,0 +1,6 @@
+./__pycache__
+.vscode
+*.pyc
+*.retry
+setup.sh
+.db_config.ini
